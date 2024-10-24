@@ -4,8 +4,8 @@ const Body = () => {
   return (
     <div className='space-y-4 lg:flex'>
       <div className='flex items-center justify-center lg:flex-1 lg:order-2' >
-        <img src='./Resources/car left.png' alt='left car ' className='w-48 md:w-80 lg:w-[450px]'  ></img>
-        <img src='./Resources/car right.png' alt='right car'  className='w-48 md:w-80 lg:w-[450px]'></img>
+        <img src='./Resources/car left.png' alt='left car ' className='w-48 md:w-80 lg:w-[400px]'  ></img>
+        <img src='./Resources/car right.png' alt='right car'  className='w-48 md:w-80 lg:w-[400px]'></img>
       </div>
       <div className='lg:flex-1 lg:order-1 '>
         <h1 className='text text-5xl font-bold font-serif  leading-tight'>We Provide the most practical reviews</h1>
