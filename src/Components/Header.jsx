@@ -5,7 +5,7 @@ const Header = () => {
     <div className="flex justify-between">
         <div className="flex items-center justify-center gap-5">
             <img src="./Resources/Logo.jpg" alt="Logo" className='h-10 w-8 md:h-28 w-28 lg:h-44 w-72'/>
-            <button className='bg-gradient-to-r from-orange-400 to-red-400 text-xs text-white hover:text-neutral-500 px-2.5 py-1.5 rounded-2xl '>We are hiring</button>
+            <a href='https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__uuMuJpUNUQyNkExMlpPMVZaV0ZJUlRGRVZCVzBKQy4u' target='blank' ><button className='bg-gradient-to-r from-orange-400 to-red-400 text-xs text-white hover:text-neutral-500 px-2.5 py-1.5 rounded-2xl '>We are hiring</button></a>
         </div>
         <div>
           <ul className='hidden lg:flex justify-between items-center font-bold from-neutral-400 gap-6'>
